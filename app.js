@@ -14,6 +14,7 @@ const CONFIG = {
     apiEndpoint: 'https://openrouter.ai/api/v1/chat/completions',
     model: 'qwen/qwen3-coder:free',
     maxTokens: 1024
+};
 
 // Default HTML Template
 const DEFAULT_CODE = `<!DOCTYPE html>
